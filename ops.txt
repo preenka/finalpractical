@@ -11,4 +11,5 @@ Flexibility: Open source software can be customized and modified to meet the spe
 Collaboration: Open source software is often developed collaboratively by a community of developers who contribute to the project and make improvements over time.
 
 Cost: Open source software is typically free to use and distribute, which can result in significant cost savings for organizations.
+
 Easy to use for students to  learn about recent technologies.
